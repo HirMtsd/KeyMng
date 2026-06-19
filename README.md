@@ -8,4 +8,4 @@
 ## FIDO2
 
 ## yubikey
-[Yubikey](.Yubikey.md)
+[Yubikey](./Yubikey.md)
